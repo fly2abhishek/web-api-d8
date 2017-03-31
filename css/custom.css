@@ -1,0 +1,15 @@
+h2.front-title {
+  text-transform: none;
+}
+
+.logo {
+  width: 300px;
+  height: 169px;
+  border: none !important;
+  box-shadow: none !important;
+  background: none !important;
+}
+
+.reveal pre code {
+  max-height: 700px !important;
+}
